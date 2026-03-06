@@ -7,7 +7,7 @@
 /**
  * Uniarp Brand Colors
  * Primary: #004b93 (Blue)
- * Secondary: #3ecc5f (Green)
+ * Secondary: #f37021 (Orange)
  */
 
 :root {
@@ -29,18 +29,18 @@
 
 /* For readability on dark mode */
 [data-theme='dark'] {
-  --ifm-color-primary: #3ecc5f;
-  --ifm-color-primary-dark: #37b855;
-  --ifm-color-primary-darker: #34ad51;
-  --ifm-color-primary-darkest: #2b8f43;
-  --ifm-color-primary-light: #51d172;
-  --ifm-color-primary-lighter: #5bd47c;
-  --ifm-color-primary-lightest: #79dd99;
+  --ifm-color-primary: #f37021;
+  --ifm-color-primary-dark: #e0631a;
+  --ifm-color-primary-darker: #d45d18;
+  --ifm-color-primary-darkest: #af4b14;
+  --ifm-color-primary-light: #f58544;
+  --ifm-color-primary-lighter: #f68f55;
+  --ifm-color-primary-lightest: #f9ad81;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
 .navbar {
-  border-bottom: 3px solid #3ecc5f;
+  border-bottom: 3px solid #f37021;
 }
 
 .hero--primary {
@@ -48,12 +48,12 @@
 }
 
 .button--secondary {
-  --ifm-button-background-color: #3ecc5f;
-  --ifm-button-border-color: #3ecc5f;
+  --ifm-button-background-color: #f37021;
+  --ifm-button-border-color: #f37021;
   --ifm-button-color: #fff;
 }
 
 .button--secondary:hover {
-  background-color: #37b855;
-  border-color: #37b855;
+  background-color: #e0631a;
+  border-color: #e0631a;
 }
