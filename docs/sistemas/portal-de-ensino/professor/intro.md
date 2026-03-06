@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 0
 ---
 
-# Área do Professor
+# Introdução à Área do Professor
 
 O professor gerencia toda a vida acadêmica das suas turmas através deste módulo.
 

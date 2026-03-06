@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 0
 ---
 
-# Área do Aluno
+# Introdução à Área do Aluno
 
 Aqui o aluno acompanha seu progresso e interage com a instituição.
 
