@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcentral_de_ajuda=globalThis.webpackChunkcentral_de_ajuda||[]).push([[1903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/central-de-ajuda/blog","blogTitle":"Blog","authorsListPath":"/central-de-ajuda/blog/authors"}')}}]);
