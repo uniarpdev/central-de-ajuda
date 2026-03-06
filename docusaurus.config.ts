@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Central de Ajuda Uniarp',
   tagline: 'Guia de uso dos sistemas para usuários',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon-uniarp.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -72,15 +72,15 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logo-uniarp.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Uniarp',
+      title: 'Central de Ajuda',
       logo: {
         alt: 'Uniarp Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo-uniarp.png',
       },
       items: [
         {
