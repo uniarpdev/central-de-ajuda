@@ -4,11 +4,9 @@ sidebar_position: 1
 
 # Gestão de Bolsas
 
-Plataforma unificada para concessão e acompanhamento de benefícios estudantis.
+Acompanhe aqui todas as informações sobre benefícios e auxílios estudantis oferecidos pela Uniarp.
 
-## Componentes
-- **Painel Administrativo:** Gestão de editais e concessão (Desktop).
-- **Portal de Inscrição:** Interface para o aluno submeter documentos e acompanhar o processo (Web).
-
-## Repositório
-[`app-bolsas`](https://github.com/uniarpdev/app-bolsas)
+## Funcionalidades para o Aluno
+- **Inscrição:** Envio de documentos para novos editais de bolsas.
+- **Acompanhamento:** Verifique o status da sua solicitação e o resultado dos processos seletivos.
+- **Renovação:** Orientações para manter seu benefício ativo.

@@ -4,11 +4,8 @@ sidebar_position: 1
 
 # RH e Férias
 
-Automação de processos do departamento de Recursos Humanos.
+Portal de autosserviço para os colaboradores da Uniarp.
 
-## Funcionalidades
-- Emissão de avisos de férias.
-- Recibos de pagamento.
-
-## Repositório
-[`app-aviso-ferias`](https://github.com/uniarpdev/app-aviso-ferias)
+## O que você pode fazer?
+- **Consultar Férias:** Verifique seus períodos aquisitivos e avisos de férias programadas.
+- **Recibos:** Visualize e imprima seus comprovantes de pagamento e rendimentos.

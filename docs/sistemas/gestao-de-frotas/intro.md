@@ -4,10 +4,8 @@ sidebar_position: 1
 
 # Gestão de Frotas
 
-Controle de veículos oficiais, agendamentos e manutenção.
+Sistema para organização e reserva de veículos oficiais da instituição.
 
-## Plataforma
-Desenvolvido originalmente em `Bubble.io` e integrado aos processos da Uniarp.
-
-## Repositório
-[`app-gestao-frotas`](https://github.com/uniarpdev/app-gestao-frotas)
+## Como funciona?
+- **Reserva de Veículos:** Solicite veículos para viagens oficiais e atividades acadêmicas.
+- **Acompanhamento:** Verifique o status da sua reserva e cronograma de uso.

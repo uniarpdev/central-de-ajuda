@@ -4,13 +4,9 @@ sidebar_position: 1
 
 # Portal de Ensino
 
-O **Portal de Ensino** é a intranet principal da Uniarp, unificando a gestão acadêmica e processos administrativos.
+O **Portal de Ensino** é o canal principal de comunicação e gestão acadêmica da Uniarp, onde alunos e professores realizam suas atividades diárias.
 
-## Repositório
-[`app-portal-mvc`](https://github.com/uniarpdev/app-portal-mvc)
-
-## Funcionalidades Core
-- Gestão de Turmas e Disciplinas (Diários, Planos de Ensino).
-- Gestão de Salas e Reservas.
-- Módulo do Aluno (Relatórios, Matrícula).
-- Workflows Digitais (Aproveitamento, Orientação, Ativ. Complementares).
+## O que você encontra aqui?
+- **Para Professores:** Lançamento de notas, frequências, planos de aula e acompanhamento de turmas.
+- **Para Alunos:** Consulta de notas, frequência, materiais de aula, matriz curricular e situação de matrícula.
+- **Serviços Digitais:** Solicitação de aproveitamento de estudos, acompanhamento de TCC e registro de atividades complementares.

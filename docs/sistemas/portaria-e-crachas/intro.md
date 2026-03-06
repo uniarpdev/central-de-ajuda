@@ -4,11 +4,8 @@ sidebar_position: 1
 
 # Portaria e Crachás
 
-Sistema voltado para o controle de acesso físico e gestão de identificação institucional.
+Este espaço é dedicado à gestão da sua identificação institucional e acesso aos campi da Uniarp.
 
-## Funcionalidades
-- Solicitação de crachás por colaboradores e alunos.
-- Gestão de acessos temporários.
-
-## Repositório
-[`app-portaria`](https://github.com/uniarpdev/app-portaria)
+## Como utilizar?
+- **Solicitação de Crachá:** Peça sua primeira via ou segunda via do crachá de identificação.
+- **Acesso:** Informações sobre como utilizar seu crachá nas catracas e portarias.

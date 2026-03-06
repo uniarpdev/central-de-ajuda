@@ -4,7 +4,8 @@ sidebar_position: 1
 
 # Extrato de Notas (Colégio)
 
-Sistema de consulta de desempenho acadêmico para o Colégio de Aplicação.
+Portal exclusivo para alunos e responsáveis do Colégio de Aplicação Uniarp.
 
-## Repositório
-[`app-extrato-notas`](https://github.com/uniarpdev/app-extrato-notas)
+## O que consultar?
+- **Desempenho Escolar:** Notas e avaliações por bimestre.
+- **Frequência:** Acompanhamento diário de presença nas aulas.

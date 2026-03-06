@@ -4,11 +4,8 @@ sidebar_position: 1
 
 # Carteirinha Digital
 
-Solução para identificação digital de alunos e colaboradores.
+A sua identificação estudantil sempre com você, diretamente no seu celular ou computador.
 
-## Funcionalidades
-- Exibição de carteirinha digital via Web/Mobile.
-- Gestão de lotes de produção física (Desktop).
-
-## Repositório
-[`app-carteirinha`](https://github.com/uniarpdev/app-carteirinha)
+## Vantagens
+- **Acesso Prático:** Utilize a versão digital para identificação em eventos e bibliotecas.
+- **Sempre Atualizada:** Seus dados acadêmicos são sincronizados automaticamente.

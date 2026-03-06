@@ -4,11 +4,9 @@ sidebar_position: 1
 
 # Identidade
 
-O sistema de **Identidade** gerencia o ciclo de vida dos usuários na rede Uniarp, integrando com o Active Directory (LDAP).
+O sistema de **Identidade** é o seu ponto de acesso unificado aos sistemas da Uniarp.
 
-## Componentes
-- **Identidade (Adm):** Gestão administrativa de usuários (Desktop).
-- **Identidade (Web):** Interface de autosserviço para troca de senhas e atualização de dados.
-
-## Repositório
-[`app-ldap`](https://github.com/uniarpdev/app-ldap)
+## Funcionalidades
+- **Troca de Senha:** Alteração da sua senha de acesso aos computadores e sistemas.
+- **Autosserviço:** Recuperação de acesso caso você esqueça suas credenciais.
+- **Atualização de Cadastro:** Mantenha seus dados de contato sempre em dia.

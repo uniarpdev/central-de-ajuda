@@ -4,7 +4,8 @@ sidebar_position: 1
 
 # Pagamentos Medicina
 
-Gestão financeira específica para as particularidades do curso de Medicina.
+Área dedicada à gestão financeira para acadêmicos do curso de Medicina.
 
-## Repositório
-[`app-pagmed`](https://github.com/uniarpdev/app-pagmed)
+## Funcionalidades
+- **Extrato Financeiro:** Consulta de mensalidades e pagamentos realizados.
+- **Boletos:** Emissão de boletos e comprovantes de quitação.
