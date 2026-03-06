@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uniarpdev.github.io/central-de-ajuda/blog"/>
     <subtitle>Central de Ajuda Uniarp Blog</subtitle>
-    <icon>https://uniarpdev.github.io/central-de-ajuda/img/favicon.ico</icon>
+    <icon>https://uniarpdev.github.io/central-de-ajuda/img/favicon-uniarp.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://uniarpdev.github.io/central-de-ajuda/blog/welcome</id>
