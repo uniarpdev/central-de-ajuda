@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Configuração de Ambiente
 
 Após o login, esta é a tela mais importante para garantir que você veja as informações corretas.

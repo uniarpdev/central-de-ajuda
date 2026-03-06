@@ -1,17 +1,6 @@
----
-sidebar_position: 2
----
+# Login e Acesso
 
-# Como Acessar
-
-Para acessar o Portal de Ensino da Uniarp, siga os passos abaixo:
-
-1. Acesse o endereço oficial: [portaldeensino.uniarp.edu.br](https://portaldeensino.uniarp.edu.br).
-2. Digite seu **usuário** (geralmente seu CPF ou Registro Acadêmico - RA).
-3. Insira sua **senha** pessoal (a mesma utilizada nos sistemas institucionais).
-
-![Tela de Login do Portal](/img/portal/acesso-login.png)
-*Exemplo da tela de entrada do sistema.*
+Página inicial para autenticação no Portal Uniarp.
 
 ## 🔑 Credenciais
 *   **Usuário:** Seu CPF ou Registro Acadêmico (RA).
