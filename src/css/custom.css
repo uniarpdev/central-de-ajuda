@@ -11,6 +11,11 @@
  */
 
 :root {
+  --ifm-font-size-base: 15px;
+  --ifm-line-height-base: 1.6;
+  --ifm-h1-font-size: 2rem;
+  --ifm-h2-font-size: 1.5rem;
+  --ifm-h3-font-size: 1.25rem;
   --ifm-color-primary: #004b93;
   --ifm-color-primary-dark: #004384;
   --ifm-color-primary-darker: #00407d;
@@ -18,7 +23,7 @@
   --ifm-color-primary-light: #0053a2;
   --ifm-color-primary-lighter: #0057aa;
   --ifm-color-primary-lightest: #0066c7;
-  --ifm-code-font-size: 95%;
+  --ifm-code-font-size: 90%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
